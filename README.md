@@ -32,7 +32,7 @@ Antes de executar o programa, você precisa ter:
 
 1. **Clone este repositório** para sua máquina local:
    ```bash
-   git clone https://github.com/seu-usuario/calculadora-imc.git
+   git clone https://github.com/vinyciosnavarro07/calculadora-imc.git
    cd calculadora-imc
    ```
 
